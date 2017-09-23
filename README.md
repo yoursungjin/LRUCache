@@ -5,4 +5,5 @@ LRU Cache in C# for Unity3D
 [Least Recently Used cache](https://en.wikipedia.org/wiki/Cache_replacement_policies#Least_Recently_Used_.28LRU.29)
 
 ## Author
-Sungjin Lee<br> 
+Sungjin Lee<br>
+sungjinlee0417@gmail.com
