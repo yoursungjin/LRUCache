@@ -6,5 +6,4 @@ LRU Cache in C# for Unity3D
 
 ## Author
 Sungjin Lee<br> 
-yoursungjin@gmail.com<br> 
 sungjinlee0417@gmail.com
